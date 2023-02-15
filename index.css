@@ -6,7 +6,9 @@ body {
     font-variant: small-caps;
     font-size: 18px;  
   }
-  
+  a{
+    cursor:pointer;
+  }
   h1 {
     font-family: Cinzel, serif;
     font-size: 46px;  
